@@ -1,0 +1,43 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,500&display=swap');
+
+
+  body {
+         background-color:#edeaff;
+         font-family: 'Roboto Mono', monospace;
+        }
+        button {
+            font-family: 'Roboto Mono', monospace;
+            font-size: 20px;
+        }
+        button:nth-child(1){
+            background-color: rgb(72, 201, 12);
+        }
+        button:nth-child(2){
+                    background-color: rgb(183, 5, 5);
+                }
+        button:nth-child(3){
+                    background-color: rgb(183, 189, 8);
+                }
+  .stopwatch{
+      width: 90%;
+      max-width: 600px;
+      background-image:  url(images/background-atheletics-running-track.jpg);
+      background-size: cover;
+      background-position: center;
+      text-align: center;
+      padding: 40px;
+      color: #fff;
+      border-radius: 25px;
+      margin: 200px auto 0;
+      box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+  }   
+  .stopwatch h1{
+      color: black;
+  }
+  
+ 
+  
+
+        
+  
